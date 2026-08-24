@@ -1,3 +1,4 @@
+# Hi, I'm Siddhi Patil
 # 💫 About Me:
 🔭 I’m currently working on *AI/ML and Python-based projects*<br><br>👯 I’m looking to collaborate on *AI/ML, Python, and innovative student projects*<br><br>🤝 I’m looking for help with *AI/ML, Data Science, and building real-world applications*<br><br>🌱 I’m currently learning *Machine Learning, Deep Learning, Python, and Full-Stack Development*<br><br>💬 Ask me about *Python, Machine Learning, AI, and my projects*<br><br>⚡ Fun fact: *I love turning ideas into projects and participating in hackathons!*
 
